@@ -15,8 +15,8 @@ Analyze job postings to extract trends, required skills, and location/company pa
 - Bengaluru and New York are job hubs.
 - Entry-level roles require BI tools, while senior roles emphasize ML.
 
-## 🚀 Run the Project
-```bash
-pip install -r requirements.txt
-## Datasets
+- ## Datasets
 https://www.kaggle.com/datasets/asaniczka/data-science-job-postings-and-skills?utm_source=chatgpt.com
+
+
+
