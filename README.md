@@ -18,3 +18,5 @@ Analyze job postings to extract trends, required skills, and location/company pa
 ## 🚀 Run the Project
 ```bash
 pip install -r requirements.txt
+## Datasets
+https://www.kaggle.com/datasets/asaniczka/data-science-job-postings-and-skills?utm_source=chatgpt.com
